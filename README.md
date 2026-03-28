@@ -64,6 +64,9 @@ Commodities_Price_Predictor
 │
 ├── templates
 │     └── index.html
+│     └── index.html
+│     └── index.html
+│     └── index.html
 │
 ├── static
 │     └── style.css
